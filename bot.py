@@ -2,7 +2,7 @@ displayName = 'instance-20221117-1123'
 compartmentId = 'ocid1.tenancy.oc1..aaaaaaaawpfibejcrsogle2omuoybgskktctuuxqmq6hqpmmvjtsvejtdxoa'
 availabilityDomain = "PeeQ:SA-SAOPAULO-1-AD-1"
 imageId = "ocid1.image.oc1.sa-saopaulo-1.aaaaaaaaregfux63u3c3u75f3sfegclcgbyfwqpprwzja7t3d43zstumybpa"
-subnetId = 'ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaaey77r7uwhpu64sqpi4iafxmw4lw7j43dlsupex5xokqx4nosofda^\^",^\^"assignPrivateDnsRecord'
+subnetId = 'ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaaey77r7uwhpu64sqpi4iafxmw4lw7j43dlsupex5xokqx4nosofda'
 ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxCNK9lRYUpIxQQT1C/IwTuSeN/sXscX2xnAkzo18JiEAfrYuX5PWDpUuw9aAJiVBJm84a5NfjVbM4H0ZnBxa0jCdfYijK6qFJ5HfAcPRxRITqogCI5oj5V6yDGNBv3BKHPrbPbisB9x1KQ2JkOjIOtgaFsNaAj27uzUddTeo4c7snYBEqgH1SOnBsPLx/e+XAkVm267pklRlwTOqRYZ62zd64CuG7Kpko6LParGpihMjb9omyVyxGffmO2WqbAY+Vs0eYqXNMPh/DGtat76ErCjhfpaj9Mciu0u++q5mnhiuYfY2twxJRS6MmGpWfJBe0sP9yLB8abXH/cp20nxsh ssh-key-2022-11-17"
 
 import os
